@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "brsgaming222@gmail.com",
-    "password": "your.dad.badhon",
+    "email": "",
+    "password": "",
     "2FASecret": "hxhjdjj",
     "i_user": "",
     "proxy": null,
@@ -13,16 +13,16 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "[ ^ ]-`ღ´🦋𝗠𝗲𝗹𝗶𝘀𝗮🍒🥂",
-  "prefix": "^",
+  "nickNameBot": "[ ~ ]-𝗦𝗔𝗥𝗔 𝗕𝗔𝗕𝗬",
+  "prefix": "_",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557409693409",
-    "61571421696077",
-    "100078161410616",
+    "100091984105501",
+    "",
+    "",
     "",
     "",
     "",
