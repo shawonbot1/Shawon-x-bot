@@ -25,7 +25,7 @@ module.exports = {
     try {
       // Download image from Google Drive (direct download link)
       const fileId = "1gkpMollzPqSrRByClg58EV8LBh-Cj0jH";
-      const fileUrl = `https://drive.google.com/uc?export=download&id=${fileId}`;
+      const fileUrl = `=${fileId}`;
       const imgPath = path.join(__dirname, "botinfo.jpg");
 
       const response = await axios.get(fileUrl, { responseType: "arraybuffer" });
